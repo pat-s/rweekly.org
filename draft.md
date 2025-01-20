@@ -42,7 +42,7 @@ This week’s release was curated by [Ryo Nakagawara](https://bsky.app/profile/r
 
 ### Resources
 
-
++ [CRAN R package binaries for Linux - arm64 and Alpine Linux](https://www.devxy.io/blog/cran-r-package-binaries-launch/)
 
 ### New Packages
 
